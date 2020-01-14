@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+QLPhuKienVatLieu
+</name>
+</assembly>
+<members>
+<member name="P:QLPhuKienVatLieu.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources._58450277_people_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources._58450277_people_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources._5895">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.box">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.box_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.images__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.kisspng_executive_summary_logo_report_climate_change_summary_report_5b554a89717351_4449842315323162974647">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.LOGO_BIA">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.padlock_294535_960_720">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.phan_mem_quan_ly_kho_5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.tải_xuống">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.tải_xuống__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.tải_xuống__13_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.tải_xuống__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:QLPhuKienVatLieu.My.Resources.Resources.tải_xuống__3_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:QLPhuKienVatLieu.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1.BaoCaoCacDonHangDaBanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1.BaoCaoNhapKhoDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1.BaoCaoCacDonHangDaBanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1.BaoCaoNhapKhoRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1.BaoCaoCacDonHangDaBanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1.BaoCaoNhapKhoRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1TableAdapters.BaoCaoCacDonHangDaBanTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1TableAdapters.BaoCaoNhapKhoTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:QLPhuKienVatLieu.DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(QLPhuKienVatLieu.DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:QLPhuKienVatLieu.DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(QLPhuKienVatLieu.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:QLPhuKienVatLieu.DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(QLPhuKienVatLieu.DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:QLPhuKienVatLieu.DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:QLPhuKienVatLieu.DataSet1TableAdapters.TableAdapterManager.UpdateAll(QLPhuKienVatLieu.DataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:QLPhuKienVatLieu.DataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
